@@ -3,7 +3,7 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: "anitaku.to",
+        hostname: "gogocdn.net",
       },
     ],
   },
